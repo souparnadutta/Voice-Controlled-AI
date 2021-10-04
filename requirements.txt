@@ -1,0 +1,12 @@
+pyttsx3==2.90
+PyAudio==0.2.11
+wikipedia==1.4.0
+keyboard==0.13.5
+requests==2.25.1
+pywhatkit==4.7
+pandas==1.2.4
+pyjokes==0.6.0
+selenium==3.141.0
+bs4==0.0.1
+beautifulsoup4==4.9.3
+PyDictionary==2.0.1
